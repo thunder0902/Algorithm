@@ -21,4 +21,9 @@
 ### 출력 
 
  <p>첫째 줄에 자리수를 내림차순으로 정렬한 수를 출력한다.</p>
+ 
+### 풀이
+<p align="center">
+  <img src="https://github.com/thunder0902/Algorithm/assets/76557909/610eeed8-b757-46e7-bbab-2589d8431b79">
+</p>
 
