@@ -21,4 +21,19 @@
 ### 출력 
 
  <p>첫째 줄부터 N개의 줄에 점을 정렬한 결과를 출력한다.</p>
+### tip
 
+구조체 배열을 선언하고
+n=5
+i = 0 일때 ary[i].x=3,ary[i].y=4
+i = 1 일때 ary[i].x=1,ary[i].y=1
+i = 2 일때 ary[i].x=1,ary[i].y=-1
+i = 3 일때 ary[i].x=2,ary[i].y=2
+i = 4 일때 ary[i].x=3,ary[i].y=3
+입력을 이렇게 받았다고 했을때
+
+<p align="center">
+  <img src="https://github.com/thunder0902/Algorithm/assets/76557909/9a04f9f5-3068-46a2-a16c-1a8b5638ebcb">
+</p>
+시각화를 이런식으로 했다.
+그 뒤로 병합정렬을 하든 퀵정렬을 하면 해결되는 문제!
